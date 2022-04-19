@@ -8,7 +8,7 @@ It is made in R and it predicts the future Semester marks of students and also p
 
 There is also a similar project in python, but it is a GUI app and have lots of features, check it out on the below link.
 
-<a href="github.com/HamzaKhan07/PS-MiniProject">Similar Project in Python</a>
+<a href="https://github.com/HamzaKhan07/PS-MiniProject">Similar Project in Python</a>
 
 
 ## 💡 Features
